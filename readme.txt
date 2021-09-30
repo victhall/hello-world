@@ -1,1 +1,1 @@
-Hello
+Hello, this is the git-it challenge.
